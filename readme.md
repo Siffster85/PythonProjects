@@ -1,4 +1,4 @@
-A collection of simple game projects.
+A collection of simple game projects currently all terminal based, front end to be built later.
 
 1, madlibs.py 
     String concatination to decide on a new character for DnD. Answer the questions to build a basic character.
@@ -8,3 +8,6 @@ A collection of simple game projects.
 
 3, rock_paper_scissors.py
     Simple rock paper scissors game using Random to decide the computer choice
+
+4, hangman.py
+    Hangman game, guess letters before lives run out.
