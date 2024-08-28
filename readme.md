@@ -11,3 +11,6 @@ A collection of simple game projects currently all terminal based, front end to 
 
 4, hangman.py
     Hangman game, guess letters before lives run out.
+
+5, Noughts and crosses (run game.py)
+    Very easy X&O game, AI improvement to come next.
